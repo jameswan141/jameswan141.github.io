@@ -49,15 +49,6 @@ TODO
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
-</style>
-</head>
-<body>
-
 <div class="town">
   <h2>Fairhope</h2>
   <p>Fairhope is in Alabama.</p>
@@ -72,9 +63,6 @@ TODO
   <h2>Winslow</h2>
   <p>Winslow is in Arizona.</p>
 </div>
-
-</body>
-</html>
 
 
 
