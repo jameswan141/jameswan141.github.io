@@ -63,14 +63,3 @@ TODO
   <h2>Winslow</h2>
   <p>Winslow is in Arizona.</p>
 </div>
-
-
-
-<script> 
-function myFunction() {
-  var x = document.getElementsByClassName("city");
-  for (var i = 0; i < x.length; i++) {                           
-    x[i].style.display = "none";                          
-  }                         
-}                             
-</script>
