@@ -49,7 +49,6 @@ TODO
 
 
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
