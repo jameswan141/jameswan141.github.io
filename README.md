@@ -48,32 +48,47 @@ TODO
 </body>
 
 
+
 <!DOCTYPE html>
 <html>
 <head>
 <style>
-.colors {
-  shade: 80%;
-  color: red;
-}
+.town {
+  background-color: blue;
+  color: white;
+  border: 2px solid black;
+  margin: 30px;
+  padding: 30px;
+} 
 </style>
 </head>
+<body>
+
+<div class="town">
+  <h2>Fairhope</h2>
+  <p>Fairhope is in Alabama.</p>
+</div>
+
+<div class="town">
+  <h2>Unalaska</h2>
+  <p>Unalaska is in Alaska.</p>
+</div>
+
+<div class="town">
+  <h2>Winslow</h2>
+  <p>Winslow is in Arizona.</p>
+</div>
+
+</body>
 </html>
 
 
 
-<script>
-  
+<script> 
 function myFunction() {
-  
   var x = document.getElementsByClassName("city");
-  
-  for (var i = 0; i < x.length; i++) {
-                               
-    x[i].style.display = "none";
-                               
-  }
-                               
-}
-                               
+  for (var i = 0; i < x.length; i++) {                           
+    x[i].style.display = "none";                          
+  }                         
+}                             
 </script>
