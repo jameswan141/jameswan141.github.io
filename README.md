@@ -53,13 +53,7 @@ TODO
 <html>
 <head>
 <style>
-.town {
-  background-color: blue;
-  color: white;
-  border: 2px solid black;
-  margin: 30px;
-  padding: 30px;
-} 
+
 </style>
 </head>
 <body>
