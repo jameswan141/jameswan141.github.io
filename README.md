@@ -1,7 +1,11 @@
 Name: James Wan
+
 Major: Computer Science
+
 Email address: jameswan@udel.edu
+
 Hobbies: Singing and playing the piano
+
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
 
@@ -71,10 +75,17 @@ TODO
 </html>
 
 <script>
+  
 function myFunction() {
+  
   var x = document.getElementsByClassName("city");
+  
   for (var i = 0; i < x.length; i++) {
+                               
     x[i].style.display = "none";
+                               
   }
+                               
 }
+                               
 </script>
