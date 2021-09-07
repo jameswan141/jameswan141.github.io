@@ -61,7 +61,7 @@ TODO
 </head>
 <body>
 
-<h1>My<span class="colors">Colorful</span>Heading</h1>
+<h1>My <span class="colors">Colorful</span>Heading </h1>
 <p>This is some <span class="colors">important</span> text.</p>
 
 </body>
