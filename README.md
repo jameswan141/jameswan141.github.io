@@ -49,6 +49,21 @@ TODO
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.town {
+  background-color: purple;
+  color: green;
+  border: 2px solid pink;
+  margin: 20px;
+  padding: 20px;
+} 
+</style>
+</head>
+<body>
+
 <div class="town">
   <h2>Fairhope</h2>
   <p>Fairhope is in Alabama.</p>
