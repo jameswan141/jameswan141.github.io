@@ -49,32 +49,10 @@ TODO
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.town {
-  background-color: purple;
-  color: green;
-  border: 2px solid pink;
-  margin: 20px;
-  padding: 20px;
-} 
-</style>
-</head>
-<body>
+p.town {
+  background-color: green;
+}
 
-<div class="town">
-  <h2>Fairhope</h2>
-  <p>Fairhope is in Alabama.</p>
-</div>
 
-<div class="town">
-  <h2>Unalaska</h2>
-  <p>Unalaska is in Alaska.</p>
-</div>
 
-<div class="town">
-  <h2>Winslow</h2>
-  <p>Winslow is in Arizona.</p>
-</div>
+<p class="center large">This paragraph refers to a couple of classes.</p>
