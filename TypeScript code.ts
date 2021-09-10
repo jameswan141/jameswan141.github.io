@@ -1,9 +1,9 @@
-const foo: any = "foo";
-const bar: unknown = "bar";
+const roar: any = "roar";
+const far: unknown = "far";
 
-foo.length; 
-bar.length; 
+roar.length; 
+far.length; 
 
-if (typeof bar === 'string') {
-  bar.length; 
+if (typeof far === 'string') {
+  far.length; 
 }
