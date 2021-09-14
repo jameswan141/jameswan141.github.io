@@ -8,7 +8,7 @@ Hobbies: Singing and playing the piano
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-<a href="#facebook_ads_example">Click here to see an example of how a company uses Facebook ads.</a>
+<a href="Change Log">Change Log</a>
 
 
 
