@@ -8,6 +8,7 @@ Hobbies: Singing and playing the piano
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
+<p id="changelog">Change Log</p>
 <a href="#changelog">Change Log</a>
 
 
