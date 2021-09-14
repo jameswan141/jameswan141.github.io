@@ -16,7 +16,7 @@ Hobbies: Singing and playing the piano
 
 
 
-<p id="changelog">Change Log</p>
+<p id="change log">Change Log</p>
 
 * I added files of computer languages with codes. I used them to practice creating codes whether its classes or styles in order to master or become familiar with the various languages.
 * I changed the format of the introduction above compared to the original version. It just serves to make it tidy and less messy.
