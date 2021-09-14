@@ -10,6 +10,10 @@ Hobbies: Singing and playing the piano
 
 <a href="#changelog">Change Log</a>
 
+<a href="#todo">TODO</a>
+
+
+
 <p id="changelog">Change Log</p>
 
 * I added files of computer languages with codes. I used them to practice creating codes whether its classes or styles in order to master or become familiar with the various languages.
@@ -19,7 +23,7 @@ Hobbies: Singing and playing the piano
 
 
 
-TODO
+<p id="todo">TODO</p>
 
 * I will make the introduction, Change Log, TODO and future sections more fancy and full screens and maybe have the sections listed on the left-hand screen and clickable so reading the site will be easier.
 * I will add more codes to the uploaded files so that learning the programming languages can be easier as time goes on. I can learn new and harder stuff such as elements, avoiding the any time so that I can reach the goal of mastering the languages by the end of the semester.
