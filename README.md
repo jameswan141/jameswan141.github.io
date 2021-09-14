@@ -12,6 +12,8 @@ Hobbies: Singing and playing the piano
 
 <a href="#todo">TODO</a>
 
+<a href="#problems">Problems & Moving Forward</p>
+
 
 
 <p id="changelog">Change Log</p>
@@ -31,7 +33,7 @@ Hobbies: Singing and playing the piano
 
 
 
-Problems and Moving Forward
+<p id="problems">Problems & Moving Forward</p>
 
 * When I was dealing with HTML, I was confused with the syntax of the meaningful tags because of the <> brackets. However, I began to notice that their usage is similar to those with curly brackets in languages like Python, C, C++, and Java. Because of the similarity, the practice with code that involves the elements became easier. Nonetheless, I'm still struggling with some of the elements of HTML. I'll continue to practice with those elements and go on to new elements and more. 
 * When I was dealing with CSS, the styles and classes took some practice for me to get the hang of it. What I found interesting is when pointing out classes, even a single string can do that. When there is two words in the quotation, the code points out to two classes. The structures of those aren't too complicated but since I'm new to CSS, it took me a while to master them. I'll contnue to practice with classes and get into new selectors. 
