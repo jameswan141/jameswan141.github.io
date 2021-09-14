@@ -8,12 +8,9 @@ Hobbies: Singing and playing the piano
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-<p id="changelog">Change Log</p>
 <a href="#changelog">Change Log</a>
 
-
-
-Change Log
+<p id="changelog">Change Log</p>
 
 * I added files of computer languages with codes. I used them to practice creating codes whether its classes or styles in order to master or become familiar with the various languages.
 * I changed the format of the introduction above compared to the original version. It just serves to make it tidy and less messy.
