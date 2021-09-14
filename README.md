@@ -40,3 +40,5 @@ Hobbies: Singing and playing the piano
 * I didn't practice a lot with JavaScript. What I've done so far is using the class atribute to create classes. I didn't really focus on all parts yet but I will get into loops and arrays. 
 * I struggled with TypeScript in particular since unlike JavaScript, TypeScript is stricter in terms of rules. Because using types like any makes the code easier, avoiding the abuse of the any type was a little difficult. I'll continue to practice and touch on other types in TypeScript.
 * When I was practicing with hooks in React, I found myself having to spend time to understand how to use them in codes. It appears that I haven't quite grasp the concept and usage of them. I'll continue to go further in and make sure that I know how to use hooks.
+
+<a href="#top">Top</a>
