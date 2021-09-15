@@ -52,3 +52,27 @@ function changeParagraph() {
 
 </body>
 </html>
+
+
+
+function paragraph() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+
+
+
+<script src="scriptNumber1.js"></script>
+<script src="scriptNumber2.js"></script>
+<script src="scriptNumber3.js"></script>
+
+
+
+<script src="https://jameswan141.github.io"></script>
+
+
+
+<script src="/io/jameswan141.github.io"></script>
+
+
+
+<script src="jameswan141.github.io"></script>
