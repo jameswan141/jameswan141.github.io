@@ -4,8 +4,6 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-Hobbies: Singing and playing the piano
-
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
 <a href="#changelog">Change Log</a>
