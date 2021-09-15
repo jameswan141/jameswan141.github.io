@@ -72,3 +72,12 @@ function paragraph() {
 <script src="/io/jameswan141.github.io"></script>
 <script src="jameswan141.github.io"></script>
 </script>
+
+
+
+const obj = { width: 10, height: 15 };
+const area = obj.width * obj.heigth;
+
+
+
+console.log(4 / []);
