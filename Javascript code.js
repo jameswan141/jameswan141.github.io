@@ -61,18 +61,14 @@ function paragraph() {
 
 
 
-<script src="scriptNumber1.js"></script>
-<script src="scriptNumber2.js"></script>
-<script src="scriptNumber3.js"></script>
+<><script src="scriptNumber1.js">
+</script><script src="scriptNumber2.js">
+</script><script src="scriptNumber3.js">
 
 
 
+</script>
 <script src="https://jameswan141.github.io"></script>
-
-
-
 <script src="/io/jameswan141.github.io"></script>
-
-
-
 <script src="jameswan141.github.io"></script>
+</script>
