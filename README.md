@@ -8,7 +8,7 @@ Email address: jameswan@udel.edu
 
 file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html
 
-[Link to my guessing game](file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html)
+file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html
 
 <a href="#changelog">Change Log</a>
 
