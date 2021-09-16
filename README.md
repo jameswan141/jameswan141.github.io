@@ -4,7 +4,7 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-[Link to my repository](https://github.com/jameswan141/jameswan141.github.io)
+[Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
 file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html
 
@@ -24,7 +24,7 @@ file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/time.html
 
 Week 2
 
-* I added repositories full of files that create unique softwares of my choice. I created a guessing game and a website from JavaScript, CSS, and HTML tutorials.
+* I added repositories full of files that create unique softwares of my choice. I created a guessing game, a website, and a digital clock from JavaScript, CSS, and HTML tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
 * I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the guessing game and website, and many others from the tutorials.
 * I made the Change Log, TODO and Problems headings into clickable links. That way it will be much easier to go from one area of the site to enough without having to scroll it. I included a Top one as well.
