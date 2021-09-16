@@ -19,11 +19,8 @@ file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/time.html
 <a href="#problems">Problems & Moving Forward</a>
 
 
-<div class="header">
-  <h1>Header</h1>
-  <p>My supercool header</p>
-</div>
-
+<div class="Change Log">
+  
 <p id="change log">Change Log</p>
 
 Week 1
@@ -44,6 +41,8 @@ Week 2
 * I added more issues to keep the interesting facts of the programming languages that I learned from the tutorials.
 * I added the CSS code to the HTML files.
 
+<div class="TODO">
+  
 <p id="todo">TODO</p>
 
 Week 1
