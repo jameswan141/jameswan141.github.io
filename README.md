@@ -27,7 +27,7 @@ Week 2
 * I added repositories full of files that create unique softwares of my choice. I created a guessing game, a website, and a digital clock from JavaScript, CSS, and HTML tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
 * I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the softwares, and many others from the tutorials.
-* I made the Change Log, TODO and Problems headings into clickable links. That way it will be much easier to go from one area of the site to enough without having to scroll it. I included a Top one as well.
+* I added a Top anchor link. It takes away the need to scroll all the way to the top of the site.
 * I added the website and guessing game URLs for the best access to them. They aren't clickable so users must highlight, right-click them, then click Go to Address.
 * I cloned the repositories locally to the Visual Studio Code and I edited the files and learned to commit and push the changes directly to Github.
 * I added more issues to keep the interesting facts of the programming languages that I learned from the tutorials.
