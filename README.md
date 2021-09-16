@@ -4,7 +4,11 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-[Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
+[Link to my repository](https://github.com/jameswan141/jameswan141.github.io)
+
+[Link to my website](file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html)
+
+[Link to my guessing game](file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html)
 
 <a href="#changelog">Change Log</a>
 
@@ -16,20 +20,37 @@ Email address: jameswan@udel.edu
 
 <p id="change log">Change Log</p>
 
+Week 1
+
 * I added files of computer languages with codes. I used them to practice creating codes whether its classes or styles in order to master or become familiar with the various languages.
 * I changed the format of the introduction above compared to the original version. It just serves to make it tidy and less messy.
 * I added issues to show my knowledge of things like HTML meaningful tags. It helps me to make sure that not only do I know how to create codes, but I understand the purpose of each keyword, when not to use them, and so forth.
 * I added a project in order to keep track of how far I am in the mastery of computer languages.
 
+Week 2
 
+* I added repositories full of files that create unique softwares of my choice. I created a guessing game and a website from JavaScript, CSS, and HTML tutorials.
+* I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
+* I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the guessing game and website, and many others from the tutorials.
+* I made the Change Log, TODO and Problems headings into clickable links. That way it will be much easier to go from one area of the site to enough without having to scroll it. I included a Top one as well.
+* I added the website and guessing game URLs for the best access to them.
+* I cloned the repositories locally to the Visual Studio Code and I edited the files and learned to commit and push the changes directly to Github.
+* I added more issues to keep the interesting facts of the programming languages that I learned from the tutorials.
+* I added the CSS code to the HTML files.
 
 <p id="todo">TODO</p>
+
+Week 1
 
 * I will make the introduction, Change Log, TODO and future sections more fancy and full screens and maybe have the sections listed on the left-hand screen and clickable so reading the site will be easier.
 * I will add more codes to the uploaded files so that learning the programming languages can be easier as time goes on. I can learn new and harder stuff such as elements, avoiding the any time so that I can reach the goal of mastering the languages by the end of the semester.
 * I will add more issues so that my knowledge on the languages will only expand.
 
+Week 2
 
+* I will get into the now advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
+* I will create some difficult games, and maybe an app from TypeScript and React tutorials.
+* I will edit my website to make it more elaborate and professional.
 
 <p id="problems">Problems & Moving Forward</p>
 
