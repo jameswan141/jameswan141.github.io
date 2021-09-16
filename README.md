@@ -48,7 +48,7 @@ Week 2
 * I will edit my website to make it more elaborate and professional.
 
 <div class="header">
-  <h2>Problems * Moving Forwad</h2>
+  <h2>Problems & Moving Forwad</h2>
   <p>Week 1</p>
 </div>
 
