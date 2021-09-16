@@ -67,5 +67,6 @@ Week 1
 Week 2
 
 * When I was creating the softwares, I had to look back to what I learned from this and the previous milestone as well as the tutorials. The codes that generate them require a big load of methods, quotes, semantics, and functions. Even for the fact that I did succeed in making the softwares, it certainly was a bit of a struggle. I will refresh my memory on my previous learning of all the past things as well as learn the advanced concepts in the tutorials.
+* When I was dealing with HTML. the headers and footers were actually quite difficult especially in the larger chunks of code. The order that the elements have to come in was the key point to making the code complete and able to compile. I'll practice more with these sections before moving on to the hard ones.
 
 <a href="#top">Top</a>
