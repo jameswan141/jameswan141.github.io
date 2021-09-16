@@ -10,6 +10,8 @@ file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html
 
 file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html
 
+file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/time.html
+
 <a href="#changelog">Change Log</a>
 
 <a href="#todo">TODO</a>
@@ -29,9 +31,9 @@ Week 1
 
 Week 2
 
-* I added repositories full of files that create unique softwares of my choice. I created a guessing game and a website from JavaScript, CSS, and HTML tutorials.
+* I added repositories full of files that create unique softwares of my choice. I created a guessing game, a website, and a digital clock from JavaScript, CSS, and HTML tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
-* I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the guessing game and website, and many others from the tutorials.
+* I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the softwares, and many others from the tutorials.
 * I made the Change Log, TODO and Problems headings into clickable links. That way it will be much easier to go from one area of the site to enough without having to scroll it. I included a Top one as well.
 * I added the website and guessing game URLs for the best access to them. They aren't clickable so users must highlight, right-click them, then click Go to Address.
 * I cloned the repositories locally to the Visual Studio Code and I edited the files and learned to commit and push the changes directly to Github.
@@ -49,7 +51,7 @@ Week 1
 Week 2
 
 * I will get into the now advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
-* I will create some difficult games, and maybe an app from TypeScript and React tutorials.
+* I will create some difficult softwares, that will maybe include an app from TypeScript and React tutorials.
 * I will edit my website to make it more elaborate and professional.
 
 <p id="problems">Problems & Moving Forward</p>
@@ -64,6 +66,6 @@ Week 1
 
 Week 2
 
-* 
+* When I was creating the softwares, I had to look back to what I learned from this and the previous milestone as well as the tutorials. The codes that generate them require a big load of methods, quotes, semantics, and functions. Even for the fact that I did succeed in making the softwares, it certainly was a bit of a struggle. I will refresh my memory on my previous learning of all the past things as well as learn the advanced concepts in the tutorials.
 
 <a href="#top">Top</a>
