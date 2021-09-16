@@ -12,20 +12,12 @@ file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html
 
 file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/time.html
 
-<a href="#changelog">Change Log</a>
-
-<a href="#todo">TODO</a>
-
-<a href="#problems">Problems & Moving Forward</a>
-
-
 <div class="header">
   <h1>Change Log</h1>
   <p>Week 1</p>
 </div>
 
 <p>Change Log</p>
-
 
 * I added files of computer languages with codes. I used them to practice creating codes whether its classes or styles in order to master or become familiar with the various languages.
 * I changed the format of the introduction above compared to the original version. It just serves to make it tidy and less messy.
