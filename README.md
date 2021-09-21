@@ -4,11 +4,11 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-<a id="Change Log">Change Log</a>
+<li><a href="#">Change Log</a></li>
 
-<a id="TODO">TODO</a>
+<li><a href="#">TODO</a></li>
 
-<a id="Problems">Problems & Moving Forward</a>
+<li><a href="#">Problems & Moving Forward</a></li>
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
