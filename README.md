@@ -4,13 +4,19 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
+<a id="Change Log">Change Log</a>
+
+<a id="TODO">TODO</a>
+
+<a id="Problems">Problems & Moving Forward</a>
+
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-[Link to the website](file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html)
+[Link to the website](https://github.com/jameswan141/website.github.io)
 
-[Link to the guessing game](file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html)
+[Link to the guessing game](https://github.com/jameswan141/guessinggame.github.io)
 
-[Link to the digital clock](file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/time.html)
+[Link to the digital clock](https://github.com/jameswan141/digitalclock.github.io)
 
 <div class="header">
   <h1>Change Log</h1>
