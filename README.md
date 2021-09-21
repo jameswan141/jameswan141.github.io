@@ -6,11 +6,11 @@ Email address: jameswan@udel.edu
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html
+[Link to the website](file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html)
 
-file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html
+[Link to the guessing game](file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/guessinggame.html)
 
-file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/time.html
+[Link to the digital clock](file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/time.html)
 
 <div class="header">
   <h1>Change Log</h1>
