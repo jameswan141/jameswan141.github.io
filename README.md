@@ -12,6 +12,8 @@ Email address: jameswan@udel.edu
 
 [Link to the digital clock](https://github.com/jameswan141/digitalclock.github.io)
 
+[Link to the food app](http://localhost:3002)
+
 <div class="header">
   <h1>Change Log</h1>
   <p>Week 1</p>
