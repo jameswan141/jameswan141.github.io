@@ -8,31 +8,24 @@ function city() {
 </script>
 
 
-
 document.getElementById("demo").innerHTML = "Hello World!";
-
 
 
 document.getElementById('myImage').src="picture.gif"
 
 
-
 document.getElementById("demo").style.fontSize = "30px";
-
 
 
 document.getElementById("demo").style.display = "none";
 
 
-
 document.getElementById("demo").style.display = "block";
-
 
 
 <script>
 document.getElementById("demo").innerHTML = "The second use of script.";
 </script>
-
 
 
 <!DOCTYPE html>
@@ -54,11 +47,9 @@ function changeParagraph() {
 </html>
 
 
-
 function paragraph() {
   document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
-
 
 
 <><script src="scriptNumber1.js">
@@ -66,18 +57,15 @@ function paragraph() {
 </script><script src="scriptNumber3.js">
 
 
-
-</script>
+<script>
 <script src="https://jameswan141.github.io"></script>
 <script src="/io/jameswan141.github.io"></script>
 <script src="jameswan141.github.io"></script>
 </script>
 
 
-
 const obj = { width: 10, height: 15 };
 const area = obj.width * obj.heigth;
-
 
 
 console.log(4 / []);

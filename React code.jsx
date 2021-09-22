@@ -14,13 +14,11 @@ function Baseball() {
 }
 
 
-
 function Professor() {
   const [age, setAge] = useState(20);
   const [professor, setProfessor] = useState("Dr. Bart");
   const [todos, setTodos] = useState([{ text: "Learn Languages" }]);
 }
-
 
 
 import React, { useState, useEffect } from "react";
@@ -43,12 +41,10 @@ function Baseball() {
 }
 
 
-
 function ContextHook() {
   const local = useContext(LocalContext);
   const main = useContext(MainContext);
 }
-
 
 
 function Todos() {
