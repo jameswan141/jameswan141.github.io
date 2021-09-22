@@ -12,7 +12,7 @@ file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/index.html
 
 file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/index.html
 
-/Users/jimmyweishangwan/Documents/GitHub/gamedev-patterns-ts/gameloop.github.io/foodapp.github.io/food_app
+http://localhost:3000
 
 <div class="header">
   <h1>Change Log</h1>
