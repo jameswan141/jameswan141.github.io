@@ -12,7 +12,7 @@ Email address: jameswan@udel.edu
 
 [Link to the digital clock](https://github.com/jameswan141/digitalclock.github.io)
 
-[Link to the food app](http://localhost:3002)
+[Link to the food app](/Users/jimmyweishangwan/Documents/GitHub/gamedev-patterns-ts/gameloop.github.io/foodapp.github.io/food_app)
 
 <div class="header">
   <h1>Change Log</h1>
