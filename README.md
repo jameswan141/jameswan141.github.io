@@ -12,7 +12,7 @@ file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/index.html
 
 file:///Users/jimmyweishangwan/Documents/GitHub/digitalClock/index.html
 
-http://127.0.0.1:3000
+http://localhost:3002
 
 <div class="header">
   <h1>Change Log</h1>
