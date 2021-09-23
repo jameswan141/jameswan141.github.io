@@ -38,7 +38,7 @@ Week 3
 
 * I added more repositories that have codes that have yet to be finished. I created my own React App and made a food app that may contain mouth watering recipes.
 * I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
-* I added updated issues to show the facts that I learned from the programming languages.
+* I  updated the issues to show the facts that I learned from the programming languages.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
 
 <div class="header">
@@ -86,7 +86,7 @@ Week 2
 
 Week 3
 
-* Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the softwares.
-* When creating the React food app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done.
+* Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the portfolio.
+* When creating the React food app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done. I'll have to keep that in mind when I finish the softwares in TypeScript.
 
 <a href="#top">Top</a>
