@@ -34,6 +34,13 @@ Week 2
 * I added more issues to keep the interesting facts of the programming languages that I learned from the tutorials.
 * I added the CSS code to the HTML files.
 
+Week 3
+
+* I added more repositories that have codes that have yet to be finished. I created my own React App and made a food app that may contain mouth watering recipes.
+* I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
+* I added updated issues to show the facts that I learned from the programming languages.
+* I added an issue which is a list of objectives of what to do prior to the portfolio due date.
+
 <div class="header">
   <h2>TODO</h2>
   <p>Week 1</p>
@@ -48,6 +55,13 @@ Week 2
 * I will get into the now advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
 * I will create some difficult games that will maybe include an app from TypeScript and React tutorials.
 * I will edit my website to make it more elaborate and professional.
+
+Week 3
+
+* Heading into the final week, I will wrap up the tutorials and go over everything that I've learned from the first week to this week.
+* I will use my knowledge to get into making unique softwares that are out of this world. Sure it may look scary, but knowledge is power.
+* I will create a list of objectives of what to do in order to make the portfolio look complete.
+* I will create a paragraph showcasing how I became someone who has the ability to blend in with the computer programming community.
 
 <div class="header">
   <h2>Problems & Moving Forward</h2>
@@ -69,5 +83,10 @@ Week 2
 * When I was dealing with JavaScript, I encountered innerHTML in the coding. Since it basically sets the HTML contents of an element on a web page, the chunks of code involve both HTML and JavaScript. It was rather hard for me since this is the first time that I've dealt with it. I'll practice more with it before going ahead to debugging.
 * When I was dealing with Github, I had trouble with trying to commit and push changes to it directly from Visual Studio Code. I had to play with Visual Studio Code for a while before figuring it out. I now know how to commit and push changes to Github from Visual Studio Code and so no obstacle will stop me from doing it from now.
 * When I was dealing with TypeScript, avoiding the abuse of types like any became much easier, particularly with classes. Even so, I kind of got stuck through the sections of the tutorial and noticed the differences between TypeScript for JavaScript programmers and those for Java & C# programmers. While the differences were blurry, it was still hard for me to understand. I'll go through the tutorial again before moving to the harder stuff.
+
+Week 3
+
+* Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the softwares.
+* When creating the React food app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done.
 
 <a href="#top">Top</a>
