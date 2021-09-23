@@ -6,7 +6,7 @@ Email address: jameswan@udel.edu
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html
+[Link to the website](file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html)
 
 file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/index.html
 
@@ -38,7 +38,7 @@ Week 3
 
 * I added more repositories that have codes that have yet to be finished. I created my own React App and made a food app that may contain mouth watering recipes.
 * I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
-* I  updated the issues to show the facts that I learned from the programming languages.
+* I updated the issues to show the facts that I learned from the programming languages.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
 
 <div class="header">
