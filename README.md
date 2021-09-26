@@ -6,7 +6,7 @@ Email address: jameswan@udel.edu
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-<a href="file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html">
+<a href="file:///Users/jimmyweishangwan/Documents/GitHub/myWebsite/index.html">Link to the website</a>
 
 file:///Users/jimmyweishangwan/Documents/GitHub/guessingGame/index.html
 
