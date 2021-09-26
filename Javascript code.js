@@ -322,3 +322,5 @@ var Leaf = (function (_super) {
 var obj = new Leaf();
 obj.str = "hello";
 console.log(obj.str);
+
+

@@ -232,3 +232,6 @@ class FriendStatusWithCounter extends React.Component {
       this.handleStatusChange
     );
   }
+
+
+  
