@@ -6,7 +6,7 @@ Email address: jameswan@udel.edu
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-[Link to the website project](https://jameswan141.github.io/digitalclock.github.io)
+[Link to the website project](https://github.com/jameswan141/website.github.io)
 
 [Link to the digital clock project](https://github.com/jameswan141/digitalclock.github.io)
 
