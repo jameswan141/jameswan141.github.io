@@ -14,8 +14,6 @@ Email address: jameswan@udel.edu
 
 [Link to the food app project](https://github.com/jameswan141/foodapp.github.io)
 
-[Link to the food app in browser](http://localhost:3000/foodapp.github.io)
-
 <div class="header">
   <h1>Change Log</h1>
   <p>Week 1</p>
