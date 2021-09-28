@@ -12,7 +12,7 @@ Email address: jameswan@udel.edu
 
 [Link to the guessing game project](https://github.com/jameswan141/guessinggame.github.io)
 
-[Link to the food app project](https://github.com/jameswan141/foodapp.github.io)
+[Link to the food app project](https://jameswan141.github.io/foodapp/)
 
 <div class="header">
   <h1>Change Log</h1>
