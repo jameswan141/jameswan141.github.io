@@ -6,11 +6,11 @@ Email address: jameswan@udel.edu
 
 [Link to the repository](https://github.com/jameswan141/jameswan141.github.io)
 
-[Link to the website](https://github.com/jameswan141/website.github.io)
+[Link to the website](https://jameswan141.github.io/website/)
 
-[Link to the digital clock](https://github.com/jameswan141/digitalclock.github.io)
+[Link to the digital clock](https://jameswan141.github.io/digitalclock/)
 
-[Link to the guessing game](https://github.com/jameswan141/guessinggame.github.io)
+[Link to the guessing game](https://jameswan141.github.io/guessinggame/)
 
 [Link to the food app](https://jameswan141.github.io/foodapp/)
 
