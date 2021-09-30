@@ -333,3 +333,461 @@ obj.str ="hello"
 console.log(obj.str)
 
 
+console.log("TypeScript's Numerical Limits: "); 
+console.log("Maximum value that a number variable can hold: " + Number.MAX_VALUE); 
+console.log("Minimum value that a number variable can hold: " + Number.MIN_VALUE); 
+console.log("Value of Negative Infinity: " + Number.NEGATIVE_INFINITY); 
+console.log("Value of Negative Infinity:" + Number.POSITIVE_INFINITY);
+
+
+var month = 0 
+if(month <= 0 || month > 12) { 
+   month = Number.NaN 
+   console.log("Month is "+ month) 
+} else { 
+   console.log("Value Accepted..") 
+}
+
+
+function employee(id:number,name:string) { 
+  this.id = id 
+  this.name = name 
+} 
+
+var emp = new employee(123,"Steve") 
+employee.prototype.email = "mine@craft.com" 
+
+console.log("Employee 's Id: "+emp.id) 
+console.log("Employee's name: "+emp.name) 
+console.log("Employee's Email ID: "+emp.email)
+
+
+var alphas:string[]; 
+alphas = ["1","2","3","4"] 
+console.log(alphas[0]); 
+console.log(alphas[3]);
+
+
+var nums:number[] = [1,2,3,3] 
+console.log(nums[0]); 
+console.log(nums[1]); 
+console.log(nums[2]); 
+console.log(nums[3]);
+
+
+var arr_names:number[] = new Array(4)  
+
+for(var i = 0;i<arr_names.length;i++) { 
+   arr_names[i] = i * 2 
+   console.log(arr_names[i]) 
+}
+
+
+var names:string[] = new Array("Bugs","Bunny","Daffy","Duck") 
+
+for(var i = 0;i<names.length;i++) { 
+   console.log(names[i]) 
+}
+
+
+var arr:number[] = [12,13] 
+var[x,y] = arr 
+console.log(x) 
+console.log(y)
+
+
+var j:any; 
+var nums:number[] = [1001,1002,1003,1004] 
+
+for(j in nums) { 
+   console.log(nums[j]) 
+} 
+
+
+var mytuple = [666,"Devil"];
+
+
+var mytuple = []; 
+mytuple[0] = 120 
+mytuple[1] = 234
+
+
+var mytuple = [666,"Devil"]; 
+console.log(mytuple[0]) 
+console.log(mytuple[1])
+
+
+var tup = [] 
+tup[0] = 12 
+tup[1] = 23 
+
+console.log(tup[0]) 
+console.log(tup[1])
+
+
+var mytuple = [10,"Hello","Everybody","Everything"]; 
+console.log("Items before push "+mytuple.length)     
+
+mytuple.push(12)                                    
+console.log("Items after push "+mytuple.length) 
+console.log("Items before pop "+mytuple.length) 
+console.log(mytuple.pop()+" popped from the tuple") 
+  
+console.log("Items after pop "+mytuple.length)
+
+
+var mytuple = [100,"Hello","Everybody","Everything"];
+console.log("Tuple value at index 0 "+mytuple[0]) 
+
+mytuple[0] = 121     
+console.log("Tuple value at index 0 changed to "+mytuple[0])
+
+
+var a =[10,"hello"] 
+var [b,c] = a 
+console.log( b )    
+console.log( c ) 
+
+
+var val:string|number 
+val = 12 
+console.log("numeric value of val "+val) 
+val = "This is a string" 
+console.log("string value of val "+val)
+
+
+function disp(name:string|string[]) { 
+  if(typeof name == "string") { 
+     console.log(name) 
+  } else { 
+     var i; 
+     
+     for(i = 0;i<name.length;i++) { 
+        console.log(name[i])
+     } 
+  } 
+} 
+disp("matt") 
+console.log("Printing names array....") 
+disp(["Matt","Brandon","Elizabeth","David"])
+
+
+var arr:number[]|string[]; 
+var i:number; 
+arr = [1,2,4] 
+console.log("**numeric array**")  
+
+for(i = 0;i<arr.length;i++) { 
+   console.log(arr[i]) 
+}  
+
+arr = ["Mumbai","Pune","Delhi"] 
+console.log("**string array**")  
+
+for(i = 0;i<arr.length;i++) { 
+   console.log(arr[i]) 
+} 
+
+
+var person = { 
+  FirstName:"Tom", 
+  LastName:"Cruise", 
+  sayHi: ()=>{ return "Hi"} 
+};
+
+
+{ 
+  FirstName:string, 
+  LastName:string, 
+  sayHi()=>string 
+}
+
+
+interface IPerson { 
+  firstName:string, 
+  lastName:string, 
+  sayHi: ()=>string 
+} 
+
+var customer:IPerson = { 
+  firstName:"Tom",
+  lastName:"Cruise", 
+  sayHi: ():string =>{return "Hi there."} 
+} 
+
+console.log("Customer Object ") 
+console.log(customer.firstName) 
+console.log(customer.lastName) 
+console.log(customer.sayHi())  
+
+var employee:IPerson = { 
+  firstName:"Jim",
+  lastName:"Carrey", 
+  sayHi: ():string =>{return "Hello!"} 
+} 
+ 
+console.log("Employee  Object ") 
+console.log(employee.firstName);
+console.log(employee.lastName);
+
+
+interface RunOptions { 
+  program:string; 
+  commandline:string[]|string|(()=>string); 
+} 
+
+var options:RunOptions = {program:"test1",commandline:"Hello"}; 
+console.log(options.commandline)  
+
+options = {program:"test1",commandline:["Hello","World"]}; 
+console.log(options.commandline[0]); 
+console.log(options.commandline[1]);  
+
+options = {program:"test1",commandline:()=>{return "**Hello World**";}}; 
+
+var fn:any = options.commandline; 
+console.log(fn());
+
+
+interface namelist { 
+  [index:number]:string 
+} 
+
+var list2:namelist = ["Jack",1,"Gideon"] 
+interface ages { 
+  [index:string]:number 
+} 
+
+var agelist:ages; 
+agelist["Jack"] = 20 
+agelist[2] = "fourteen"
+
+
+interface Person { 
+  age:number 
+} 
+
+interface Musician extends Person { 
+  instrument:string 
+} 
+
+var drummer = <Musician>{}; 
+drummer.age = 27 
+drummer.instrument = "Drums" 
+console.log("Age:  "+drummer.age) console.log("Instrument:  "+drummer.instrument)
+
+
+interface IParent1 { 
+  v1:number 
+} 
+
+interface IParent2 { 
+  v2:number 
+} 
+
+interface Child extends IParent1, IParent2 { } 
+var Iobj:Child = { v1:12, v2:23} 
+console.log("value 1: "+this.v1+" value 2: "+this.v2)
+
+
+class PrinterClass { 
+  doPrint():void {
+     console.log("doPrint() from Parent called…") 
+  } 
+} 
+
+class StringPrinter extends PrinterClass { 
+  doPrint():void { 
+     super.doPrint() 
+     console.log("doPrint() is printing a string…")
+  } 
+} 
+
+var obj = new StringPrinter() 
+obj.doPrint()
+
+
+class StaticMem {  
+  static num:number; 
+  
+  static disp():void { 
+     console.log("The value of num is"+ StaticMem.num) 
+  } 
+} 
+
+StaticMem.num = 12     
+StaticMem.disp()
+
+
+class Person{ } 
+var obj = new Person() 
+var isPerson = obj instanceof Person; 
+console.log(" obj is an instance of Person " + isPerson);
+
+
+class Encapsulate { 
+  str:string = "hello" 
+  private str2:string = "world" 
+}
+
+var obj = new Encapsulate() 
+console.log(obj.str)      
+console.log(obj.str2) 
+
+
+interface ILoan { 
+  interest:number 
+} 
+
+class AgriLoan implements ILoan { 
+  interest:number 
+  rebate:number 
+  
+  constructor(interest:number,rebate:number) { 
+     this.interest = interest 
+     this.rebate = rebate 
+  } 
+} 
+
+var obj = new AgriLoan(10,1) 
+console.log("Interest is : "+obj.interest+" Rebate is : "+obj.rebate )
+
+
+var person = { 
+  firstname:"Tom", 
+  lastname:"Cruise" 
+}; 
+console.log(person.firstname) 
+console.log(person.lastname)
+
+
+var person = {
+  firstName:"Tom", 
+  lastName:"Cruise", 
+  sayHello:function() {  }  
+} 
+person.sayHello = function() {  
+  console.log("hello "+person.firstName)
+}  
+person.sayHello()
+
+
+var person = { 
+  firstname:"Tom", 
+  lastname:"Cruise" 
+}; 
+var invokeperson = function(obj: { firstname:string, lastname :string }) { 
+  console.log("first name :"+obj.firstname) 
+  console.log("last name :"+obj.lastname) 
+} 
+invokeperson(person)
+
+
+var invokeperson = function(obj:{ firstname:string, lastname :string}) { 
+  console.log("first name :"+obj.firstname) 
+  console.log("last name :"+obj.lastname) 
+} 
+invokeperson({firstname:"Sachin",lastname:"Tendulkar"});
+
+
+interface IPoint { 
+  x:number 
+  y:number 
+} 
+function addPoints(p1:IPoint,p2:IPoint):IPoint { 
+  var x = p1.x + p2.x 
+  var y = p1.y + p2.y 
+  return {x:x,y:y} 
+} 
+
+var newPoint = addPoints({x:3,y:4},{x:5,y:1})  
+
+var newPoint2 = addPoints({x:1},{x:4,y:3})
+
+
+FileName :IShape.ts 
+---------- 
+namespace Drawing { 
+   export interface IShape { 
+      draw(); 
+   }
+}  
+
+FileName :Circle.ts 
+---------- 
+/// <reference path = "IShape.ts" /> 
+namespace Drawing { 
+   export class Circle implements IShape { 
+      public draw() { 
+         console.log("Circle is drawn"); 
+      }  
+      
+      FileName :Triangle.ts 
+      ---------- 
+      /// <reference path = "IShape.ts" /> 
+      namespace Drawing { 
+         export class Triangle implements IShape { 
+            public draw() { 
+               console.log("Triangle is drawn"); 
+            } 
+         } 
+         
+         FileName : TestShape.ts 
+         /// <reference path = "IShape.ts" />   
+         /// <reference path = "Circle.ts" /> 
+         /// <reference path = "Triangle.ts" />  
+         function drawAllShapes(shape:Drawing.IShape) { 
+            shape.draw(); 
+         } 
+         drawAllShapes(new Drawing.Circle());
+         drawAllShapes(new Drawing.Triangle());
+      }
+   }
+}
+
+
+FileName : Invoice.ts  
+namespace tutorialPoint { 
+   export namespace invoiceApp { 
+      export class Invoice { 
+         public calculateDiscount(price: number) { 
+            return price * .40; 
+         } 
+      } 
+   } 
+} 
+FileName: InvoiceTest.ts 
+
+/// <reference path = "Invoice.ts" />
+var invoice = new tutorialPoint.invoiceApp.Invoice(); 
+console.log(invoice.calculateDiscount(500));
+
+
+export interface IShape { 
+  draw(); 
+}
+
+import shape = require("./IShape"); 
+export class Circle implements shape.IShape { 
+  public draw() { 
+     console.log("Cirlce is drawn (external module)"); 
+  } 
+} 
+
+import shape = require("./IShape"); 
+export class Triangle implements shape.IShape { 
+  public draw() { 
+     console.log("Triangle is drawn (external module)"); 
+  } 
+}
+  
+import shape = require("./IShape"); 
+import circle = require("./Circle"); 
+import triangle = require("./Triangle");  
+
+function drawAllShapes(shapeToDraw: shape.IShape) {
+  shapeToDraw.draw(); 
+} 
+
+drawAllShapes(new circle.Circle()); 
+drawAllShapes(new triangle.Triangle()); 
