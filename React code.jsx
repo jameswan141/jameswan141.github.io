@@ -7,7 +7,7 @@ function Baseball() {
     <div>
       <p>You hit {count} balls.</p>
       <button onClick={() => setCount(count + 1)}>
-        Click me
+        Click here
       </button>
     </div>
   );
@@ -21,19 +21,19 @@ function Professor() {
 }
 
 
-<p>You clicked {this.state.count} times</p>
+<p>You hit {this.state.count} balls.</p>
 
 
-<p>You clicked {count} times</p>
+<p>You hit {count} balls.</p>
 
 
 <button onClick={() => this.setState({ count: this.state.count + 1 })}>
-  Click it!
+  Click here
 </button>
 
 
 <button onClick={() => setCount(count + 1)}>
-  Click it!
+  Click here
 </button>
 
 
@@ -43,14 +43,14 @@ function Baseball() {
   const [count, setCount] = useState(0);
 
   useEffect(() => {
-    document.title = "You clicked ${count} times";
+    document.title = "You hit ${count} balls.";
   });
 
   return (
     <div>
-      <p>You clicked {count} times.</p>
+      <p>You hit {count} balls.</p>
       <button onClick={() => setCount(count + 1)}>
-        Click me
+        Click here
       </button>
     </div>
   );
@@ -82,11 +82,15 @@ class Example extends React.Component {
     function Example() {
       const [count, setCount] = useState(0);
   
+      useEffect(() => {
+        document.title = `You clicked ${count} times`;
+      });
+
       return (
         <div>
           <p>You clicked {count} times</p>
           <button onClick={() => setCount(count + 1)}>
-          Click me
+          Click here
          </button>
        </div>
      );
@@ -327,3 +331,35 @@ function Todos() {
 
   // ...
 }
+
+
+const friendList = [
+  { id: 1, name: 'Phineas' },
+  { id: 2, name: 'Bella' },
+  { id: 3, name: 'John' },
+];
+
+function ChatRecipientPicker() {
+  const [recipientID, setRecipientID] = useState(1);
+  const isRecipientOnline = useFriendStatus(recipientID);
+
+  return (
+    <>
+      <Circle color={isRecipientOnline ? 'green' : 'red'} />
+      <select
+        value={recipientID}
+        onChange={e => setRecipientID(Number(e.target.value))}
+      >
+        {friendList.map(friend => (
+          <option key={friend.id} value={friend.id}>
+            {friend.name}
+          </option>
+        ))}
+      </select>
+    </>
+  );
+}
+
+
+const [recipientID, setRecipientID] = useState(1);
+const isRecipientOnline = useFriendStatus(recipientID);
