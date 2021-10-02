@@ -571,7 +571,7 @@ var Drawing;
       function Circle() {
       }
       Circle.prototype.draw = function () {
-         console.log("Cirlce is drawn");
+         console.log("Circle is drawn");
       };
       return Circle;
    }());
@@ -634,7 +634,7 @@ define(["require", "exports"], function (require, exports) {
      function Circle() {
      }
      Circle.prototype.draw = function () {
-        console.log("Cirlce is drawn (external module)");
+        console.log("Circle is drawn (external module)");
      };
      return Circle;
   })();
