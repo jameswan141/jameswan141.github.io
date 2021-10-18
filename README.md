@@ -53,7 +53,7 @@ Final Week
 
 * I wrapped up my knowledge of the programming languages by finishing the tutorials and by adding more code and I have achieved the expected mastery of them all.
 * I changed the programming language of my React app from JavaScript to TypeScript.
-* I added a branch to my React app to make sure it shows up on Github Pages.
+* I added a branch to my React app repository to make sure it shows up on Github Pages.
 * I deployed my React app and published all of my projects to Github Pages.
 * I added all the repository links for the projects.
 * I made short, but detailed commit messages mostly in the React app. The best example is me learning how to move files up two directories.
