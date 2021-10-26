@@ -51,13 +51,13 @@ Week 3
 
 Final Week
 
-* I wrapped up my knowledge of the programming languages by finishing the tutorials and by adding more code and I have achieved the expected mastery of them all.
+* I wrapped up my knowledge of the programming languages by finishing the tutorials and adding the last bits of code. I have achieved the expected mastery of them all.
 * I changed the programming language of my React app to TypeScript.
 * I added a branch to my React app repository to make sure it shows up on Github Pages.
 * I deployed my React app and published all of my projects to Github Pages.
 * I added all the repository links for the projects.
 * I made short, but detailed commit messages mostly in my React app. The best example is me learning how to move files up two directories.
-* I added an issue which is a great way to conclude the portfolio.
+* I added a summary in a final issue which is a great way to conclude the portfolio.
 * Since I didn't create all the work for the projects, I made sentences to give credit to the people that I've adapted the code from.
 
 <div class="header">
