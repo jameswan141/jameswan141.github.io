@@ -58,7 +58,7 @@ Final Week
 * I added all the repository links for the projects.
 * I made short, but detailed commit messages mostly in my React app. The best example is me learning how to move files up two directories.
 * I added a summary in a final issue which is a great way to conclude the portfolio.
-* Since I didn't create all the work for the projects, I made sentences to give credit to the people that I've adapted the code from.
+* Since I didn't create all the work for the projects, I gave credit to the people that I've adapted the code from.
 
 <div class="header">
   <h2>TODO</h2>
