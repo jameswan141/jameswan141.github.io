@@ -84,7 +84,7 @@ Week 3
 
 Final Week
 
-* I will look back at my created projects and the code I added from practicing the programming languages and show them to my family and friends.
+* I will show my created projects and added code to my family and friends.
 
 <div class="header">
   <h2>Problems & Moving Forward</h2>
@@ -115,6 +115,6 @@ Week 3
 Final Week
 
 * I particularly struggled with trying to deploy a single React app to Github Pages. I had to ask for help and I found out that the way to deploy the app was through commit messages and more learning through Github. The most notable commit was that there were too many nests and I had to write a message to move the files up two directories. I also had to create another branch on Github to make sure the project shows up and is published from the right branch.
-* I look at how far I've come into the programming world since the beginning of the semester. While I'm not a big fan of programming languages, I found myself having a lot of fun playing around with them. What I thought would be a simple task turned into such a huge impact on my knowledge of them. With tutorials and the creation of my own projects, my mastery only expanded and I managed to show everyone how incredibly good I became in the field. I will look over all the work I've done and hopefully I can show the projects I made and the code I added from practicing to my family and friends.
+* I look at how far I've come into the programming world since the beginning of the semester. While I'm not a big fan of programming languages, I found myself having a lot of fun playing around with them. What I thought would be a simple task turned into such a huge impact on my knowledge of them. With tutorials and the creation of my own projects, my mastery only expanded and I managed to show everyone how incredibly good I became in the field. I will look over all the work I've done and show it to my family and friends.
 
 <a href="#top">Top</a>
