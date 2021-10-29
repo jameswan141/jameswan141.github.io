@@ -4,7 +4,7 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-[Link to the main repository](https://github.com/jameswan141/jameswan141.github.io)
+[Link to the home repository](https://github.com/jameswan141/jameswan141.github.io)
 
 [Link to the guessing game repository](https://github.com/jameswan141/guessinggame)
 
@@ -14,11 +14,11 @@ Email address: jameswan@udel.edu
 
 [Link to the recipe app repository](https://github.com/jameswan141/recipeapp)
 
+[Link to the guessing game](https://jameswan141.github.io/guessinggame/)
+
 [Link to the website](https://jameswan141.github.io/website/)
 
 [Link to the digital clock](https://jameswan141.github.io/digitalclock/)
-
-[Link to the guessing game](https://jameswan141.github.io/guessinggame/)
 
 [Link to the recipe app](https://jameswan141.github.io/recipeapp/)
 
