@@ -49,7 +49,7 @@ Week 3
 * I added more issues and updated the old ones to show the facts that I learned from the programming languages.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
 
-Final Week
+Week 4
 
 * I wrapped up my knowledge of the programming languages by finishing the tutorials and adding the last bits of code. I have achieved the expected mastery of them all.
 * I changed the programming language of my React app to TypeScript.
@@ -82,7 +82,7 @@ Week 3
 * I will create a list of objectives of what to do in order to make the portfolio look complete.
 * I will create a paragraph showcasing how I became someone who has the ability to blend in with the computer programming community.
 
-Final Week
+Week 4
 
 * I will show my created projects and added code to my family and friends.
 
@@ -112,7 +112,7 @@ Week 3
 * Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the portfolio.
 * When creating the React food app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done. I'll have to keep that in mind when I finish the softwares in TypeScript.
 
-Final Week
+Week 4
 
 * I particularly struggled with trying to deploy a single React app to Github Pages. I had to ask for help and I found out that the way to deploy the app was through commit messages and more learning through Github. The most notable commit was that there were too many nests and I had to write a message to move the files up two directories. I also had to create another branch on Github to make sure the project shows up and is published from the right branch.
 * I look at how far I've come into the programming world since the beginning of the semester. While I'm not a big fan of programming languages, I found myself having a lot of fun playing around with them. What I thought would be a simple task turned into such a huge impact on my knowledge of them. With tutorials and the creation of my own projects, my mastery only expanded and I managed to show everyone how incredibly good I became in the field. I will look over all the work I've done and show it to my family and friends.
