@@ -34,7 +34,7 @@ Email address: jameswan@udel.edu
 
 Week 2
 
-* I added repositories full of files that create unique softwares of my choice. I created a guessing game, a website, and a digital clock from JavaScript, CSS, and HTML tutorials.
+* I added repositories full of files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), a [website](https://jameswan141.github.io/website/), and a [digital clock](https://jameswan141.github.io/digitalclock/) from JavaScript, CSS, and HTML tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
 * I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the guessing game and website, and many others from the tutorials.
 * I added the Top anchor link. With that users won't need to scroll back up to the top of the site.
@@ -52,11 +52,11 @@ Week 3
 Final Week
 
 * I wrapped up my knowledge of the programming languages by finishing the tutorials and adding the last bits of code. I have achieved the expected mastery of them all.
-* I changed the programming language of my React app to TypeScript.
-* I added a branch to my React app repository to make sure it shows up on Github Pages.
-* I deployed my React app and published all of my projects to Github Pages.
+* I changed the programming language of my [recipe app](https://jameswan141.github.io/recipeapp/) to TypeScript.
+* I added a branch to my recipe app repository to make sure it shows up on Github Pages.
+* I deployed my recipe app and published all of my projects to Github Pages.
 * I added all the repository links for the projects.
-* I made short, but detailed commit messages mostly in my React app. The best example is me learning how to move files up two directories.
+* I made short, but detailed commit messages mostly in my recipe app. The best example is me learning how to move files up two directories.
 * I added a summary in a final issue which is a great way to conclude the portfolio.
 * Since I didn't create all the work for the projects, I gave credit to the people that I've adapted the code from.
 
@@ -110,11 +110,11 @@ Week 2
 Week 3
 
 * Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the portfolio.
-* When creating the React food app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done. I'll have to keep that in mind when I finish the softwares in TypeScript.
+* When creating the recipe app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done. I'll have to keep that in mind when I finish the softwares in TypeScript.
 
 Final Week
 
-* I particularly struggled with trying to deploy a single React app to Github Pages. I had to ask for help and I found out that the way to deploy the app was through commit messages and more learning through Github. The most notable commit was that there were too many nests and I had to write a message to move the files up two directories. I also had to create another branch on Github to make sure the project shows up and is published from the right branch.
+* I particularly struggled with trying to deploy my recipe app to Github Pages. I had to ask for help and I found out that the way to deploy the app was through commit messages and more learning through Github. The most notable commit was that there were too many nests and I had to write a message to move the files up two directories. I also had to create another branch on Github to make sure the app shows up and is published from the right branch.
 * I look at how far I've come into the programming world since the beginning of the semester. While I'm not a big fan of programming languages, I found myself having a lot of fun playing around with them. What I thought would be a simple task turned into such a huge impact on my knowledge of them. With tutorials and the creation of my own projects, my mastery only expanded and I managed to show everyone how incredibly good I became in the field. I will look over all the work I've done and show it to my family and friends.
 
 <a href="#top">Top</a>
