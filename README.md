@@ -4,23 +4,23 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-[The link to my home repository!](https://github.com/jameswan141/jameswan141.github.io)
+[This is the link to my home repository!](https://github.com/jameswan141/jameswan141.github.io)
 
-[The link to my guessing game repository!](https://github.com/jameswan141/guessinggame)
+[This is the link to my guessing game repository!](https://github.com/jameswan141/guessinggame)
 
-[The link to my website repository!](https://github.com/jameswan141/website)
+[This is the link to my website repository!](https://github.com/jameswan141/website)
 
-[The link to my digital clock repository!](https://github.com/jameswan141/digitalclock)
+[This is the link to my digital clock repository!](https://github.com/jameswan141/digitalclock)
 
-[The link to my recipe app repository!](https://github.com/jameswan141/recipeapp)
+[This is the link to my recipe app repository!](https://github.com/jameswan141/recipeapp)
 
-[The link to my guessing game!](https://jameswan141.github.io/guessinggame/)
+[This is the link to my guessing game!](https://jameswan141.github.io/guessinggame/)
 
-[The link to my website!](https://jameswan141.github.io/website/)
+[This is the link to my website!](https://jameswan141.github.io/website/)
 
-[The link to my digital clock!](https://jameswan141.github.io/digitalclock/)
+[This is the link to my digital clock!](https://jameswan141.github.io/digitalclock/)
 
-[The link to my recipe app!](https://jameswan141.github.io/recipeapp/)
+[This is the link to my recipe app!](https://jameswan141.github.io/recipeapp/)
 
 <div class="header">
   <h1>Change Log</h1>
