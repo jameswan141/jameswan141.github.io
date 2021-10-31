@@ -14,14 +14,6 @@ Email address: jameswan@udel.edu
 
 [This is the link to my recipe app repository!](https://github.com/jameswan141/recipeapp)
 
-[This is the link to my guessing game!](https://jameswan141.github.io/guessinggame/)
-
-[This is the link to my website!](https://jameswan141.github.io/website/)
-
-[This is the link to my digital clock!](https://jameswan141.github.io/digitalclock/)
-
-[This is the link to my recipe app!](https://jameswan141.github.io/recipeapp/)
-
 <div class="header">
   <h1>Change Log</h1>
   <p>Week 1</p>
