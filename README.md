@@ -7,11 +7,11 @@ Email address: jameswan@udel.edu
 Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github.io)
 
 <div class="header">
-  <h1>Change Log</h1>
+  <h2>Change Log</h2>
 </div>
 
 <div class="header">
-  <h2>Week 1</h2>
+  <h3>Week 1</h3>
 </div>
 
 * I added files of computer languages with codes. I used them to practice creating codes whether its classes or styles in order to master or become familiar with the various languages.
@@ -20,7 +20,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I added a project in order to keep track of how far I am in the mastery of computer languages.
 
 <div class="header">
-  <h2>Week 2</h2>
+  <h3>Week 2</h3>
 </div>
 
 * I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth repository](https://github.com/jameswan141/digitalclock) with files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), a [website](https://jameswan141.github.io/website/), and a [digital clock](https://jameswan141.github.io/digitalclock/) from JavaScript, CSS, and HTML tutorials.
@@ -32,7 +32,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I added the CSS code to the HTML files.
 
 <div class="header">
-  <h2>Week 3</h2>
+  <h3>Week 3</h3>
 </div>
 
 * I added a [fifth repository](https://github.com/jameswan141/recipeapp) that have codes that have yet to be finished. I created my own JavaScript React App which is a recipe app.
@@ -41,7 +41,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
 
 <div class="header">
-  <h2>Final Week</h2>
+  <h3>Final Week</h3>
 </div>
 
 * I wrapped up my knowledge of the programming languages by finishing the tutorials and adding the last bits of code. I have achieved the expected mastery of them all.
@@ -54,11 +54,11 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * Since I didn't create all the work for the projects, I gave credit to the people that I've adapted the code from.
 
 <div class="header">
-  <h1>TODO</h1>
+  <h2>TODO</h2>
 </div>
 
 <div class="header">
-  <h2>Week 1</h2>
+  <h3>Week 1</h3>
 </div>
 
 * I will make the introduction, Change Log, TODO and future sections more fancy and full screens and maybe have the sections listed on the left-hand screen and clickable so reading the site will be easier.
@@ -66,7 +66,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I will add more issues so that my knowledge on the languages will only expand.
 
 <div class="header">
-  <h2>Week 2</h2>
+  <h3>Week 2</h3>
 </div>
 
 * I will get into the now advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
@@ -74,7 +74,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I will edit my website to make it more elaborate and professional.
 
 <div class="header">
-  <h2>Week 3</h2>
+  <h3>Week 3</h3>
 </div>
 
 * Heading into the final week, I will wrap up the tutorials and go over everything that I've learned from the first week to this week.
@@ -83,17 +83,17 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I will create a paragraph showcasing how I became someone who has the ability to blend in with the computer programming community.
 
 <div class="header">
-  <h2>Final Week</h2>
+  <h3>Final Week</h3>
 </div>
 
 * I will show my created projects and added code to my family and friends.
 
 <div class="header">
-  <h1>Problems & Moving Forward</h1>
+  <h2>Problems & Moving Forward</h2>
 </div>
 
 <div class="header">
-  <h2>Week 1</h2>
+  <h3>Week 1</h3>
 </div>
 
 * When I was dealing with HTML, I was confused with the syntax of the meaningful tags because of the <> brackets. However, I began to notice that their usage is similar to those with curly brackets in languages like Python, C, C++, and Java. Because of the similarity, the practice with code that involves the elements became easier. Nonetheless, I'm still struggling with some of the elements of HTML. I'll continue to practice with those elements and go on to new elements and more. 
@@ -103,7 +103,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * When I was practicing with hooks in React, I found myself having to spend time to understand how to use them in codes. It appears that I haven't quite grasp the concept and usage of them. I'll continue to go further in and make sure that I know how to use hooks.
 
 <div class="header">
-  <h2>Week 2</h2>
+  <h3>Week 2</h3>
 </div>
 
 * When I was creating the softwares, I had to look back to what I learned from this and the previous milestone as well as the tutorials. The codes that generate them require a big load of methods, quotes, semantics, and functions. Even for the fact that I did succeed in making the softwares, it certainly was a bit of a struggle. I will refresh my memory on my previous learning of all the past things as well as learn the advanced concepts in the tutorials.
@@ -115,14 +115,14 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * When I was dealing with TypeScript, avoiding the abuse of types like any became much easier, particularly with classes. Even so, I kind of got stuck through the sections of the tutorial and noticed the differences between TypeScript for JavaScript programmers and those for Java & C# programmers. While the differences were blurry, it was still hard for me to understand. I'll go through the tutorial again before moving to the harder stuff.
 
 <div class="header">
-  <h2>Week 3</h2>
+  <h3>Week 3</h3>
 </div>
 
 * Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the portfolio.
 * When creating the recipe app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done. I'll have to keep that in mind when I finish the softwares in TypeScript.
 
 <div class="header">
-  <h2>Final Week</h2>
+  <h3>Final Week</h3>
 </div>
 
 * I particularly struggled with trying to deploy my recipe app to Github Pages. I had to ask for help and I found out that the way to deploy the app was through commit messages and more learning through Github. The most notable commit was that there were too many nests and I had to write a message to move the files up two directories. I also had to create another branch on Github to make sure the app shows up and is published from the right branch.
