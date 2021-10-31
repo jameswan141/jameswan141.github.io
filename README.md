@@ -4,15 +4,7 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-[This is the link to my home repository!](https://github.com/jameswan141/jameswan141.github.io)
-
-[This is the link to my guessing game repository!](https://github.com/jameswan141/guessinggame)
-
-[This is the link to my website repository!](https://github.com/jameswan141/website)
-
-[This is the link to my digital clock repository!](https://github.com/jameswan141/digitalclock)
-
-[This is the link to my recipe app repository!](https://github.com/jameswan141/recipeapp)
+Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github.io)
 
 <div class="header">
   <h1>Change Log</h1>
@@ -26,7 +18,7 @@ Email address: jameswan@udel.edu
 
 Week 2
 
-* I added repositories full of files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), a [website](https://jameswan141.github.io/website/), and a [digital clock](https://jameswan141.github.io/digitalclock/) from JavaScript, CSS, and HTML tutorials.
+* I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth repository](https://github.com/jameswan141/digitalclock) with files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), a [website](https://jameswan141.github.io/website/), and a [digital clock](https://jameswan141.github.io/digitalclock/) from JavaScript, CSS, and HTML tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
 * I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the guessing game and website, and many others from the tutorials.
 * I added the Top anchor link. With that users won't need to scroll back up to the top of the site.
@@ -36,7 +28,7 @@ Week 2
 
 Week 3
 
-* I added more repositories that have codes that have yet to be finished. I created my own JavaScript React App which is a recipe app.
+* I added a [fifth repository](https://github.com/jameswan141/recipeapp) that have codes that have yet to be finished. I created my own JavaScript React App which is a recipe app.
 * I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
 * I added more issues and updated the old ones to show the facts that I learned from the programming languages.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
