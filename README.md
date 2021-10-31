@@ -143,4 +143,6 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I particularly struggled with trying to deploy my recipe app to Github Pages. I had to ask for help and I found out that the way to deploy the app was through commit messages and more learning through Github. The most notable commit was that there were too many nests and I had to write a message to move the files up two directories. I also had to create another branch on Github to make sure the app shows up and is published from the right branch.
 * I look at how far I've come into the programming world since the beginning of the semester. While I'm not a big fan of programming languages, I found myself having a lot of fun playing around with them. What I thought would be a simple task turned into such a huge impact on my knowledge of them. With tutorials and the creation of my own projects, my mastery only expanded and I managed to show everyone how incredibly good I became in the field. I will look over all the work I've done and show it to my family and friends.
 
+
+
 <a href="#top">Top</a>
