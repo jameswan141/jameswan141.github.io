@@ -19,6 +19,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I added issues to show my knowledge of things like HTML meaningful tags. It helps me to make sure that not only do I know how to create codes, but I understand the purpose of each keyword, when not to use them, and so forth.
 * I added a project in order to keep track of how far I am in the mastery of computer languages.
 
+
 <div class="header">
   <h3>Week 2</h3>
 </div>
@@ -31,6 +32,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I added more issues to keep the interesting facts of the programming languages that I learned from the tutorials.
 * I added the CSS code to the HTML files.
 
+
 <div class="header">
   <h3>Week 3</h3>
 </div>
@@ -39,6 +41,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
 * I added more issues and updated the old ones to show the facts that I learned from the programming languages.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
+
 
 <div class="header">
   <h3>Final Week</h3>
@@ -53,6 +56,8 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I added a summary in a final issue which is a great way to conclude the portfolio.
 * Since I didn't create all the work for the projects, I gave credit to the people that I've adapted the code from.
 
+
+
 <div class="header">
   <h2>TODO</h2>
 </div>
@@ -65,6 +70,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I will add more codes to the uploaded files so that learning the programming languages can be easier as time goes on. I can learn new and harder stuff such as elements, avoiding the any time so that I can reach the goal of mastering the languages by the end of the semester.
 * I will add more issues so that my knowledge on the languages will only expand.
 
+
 <div class="header">
   <h3>Week 2</h3>
 </div>
@@ -72,6 +78,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I will get into the now advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
 * I will create some difficult games that will maybe include an app from TypeScript and React tutorials.
 * I will edit my website to make it more elaborate and professional.
+
 
 <div class="header">
   <h3>Week 3</h3>
@@ -82,11 +89,14 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I will create a list of objectives of what to do in order to make the portfolio look complete.
 * I will create a paragraph showcasing how I became someone who has the ability to blend in with the computer programming community.
 
+
 <div class="header">
   <h3>Final Week</h3>
 </div>
 
 * I will show my created projects and added code to my family and friends.
+
+
 
 <div class="header">
   <h2>Problems & Moving Forward</h2>
@@ -102,6 +112,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I struggled with TypeScript in particular since unlike JavaScript, TypeScript is stricter in terms of rules. Because using types like any makes the code easier, avoiding the abuse of the any type was a little difficult. I'll continue to practice and touch on other types in TypeScript.
 * When I was practicing with hooks in React, I found myself having to spend time to understand how to use them in codes. It appears that I haven't quite grasp the concept and usage of them. I'll continue to go further in and make sure that I know how to use hooks.
 
+
 <div class="header">
   <h3>Week 2</h3>
 </div>
@@ -114,12 +125,14 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * When I was dealing with Github, I had trouble with trying to commit and push changes to it directly from Visual Studio Code. I had to play with Visual Studio Code for a while before figuring it out. I now know how to commit and push changes to Github from Visual Studio Code and so no obstacle will stop me from doing it from now.
 * When I was dealing with TypeScript, avoiding the abuse of types like any became much easier, particularly with classes. Even so, I kind of got stuck through the sections of the tutorial and noticed the differences between TypeScript for JavaScript programmers and those for Java & C# programmers. While the differences were blurry, it was still hard for me to understand. I'll go through the tutorial again before moving to the harder stuff.
 
+
 <div class="header">
   <h3>Week 3</h3>
 </div>
 
 * Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the portfolio.
 * When creating the recipe app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done. I'll have to keep that in mind when I finish the softwares in TypeScript.
+
 
 <div class="header">
   <h3>Final Week</h3>
