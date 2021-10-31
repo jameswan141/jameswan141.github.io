@@ -9,7 +9,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 
 
 <div class="header">
-  <h1>Change Log</h1>
+  <h2>Change Log</h2>
 </div>
 
 <div class="header">
