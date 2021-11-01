@@ -4,7 +4,7 @@ Major: Computer Science
 
 Email address: jameswan@udel.edu
 
-Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github.io)
+[Click here to view my home repository!](https://github.com/jameswan141/jameswan141.github.io)
 
 
 
@@ -39,7 +39,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
   <h3>Week 3</h3>
 </div>
 
-* I added a [fifth repository](https://github.com/jameswan141/recipeapp) that have codes that have yet to be finished. I created my own JavaScript React App which is a recipe app.
+* I added a [fifth repository](https://github.com/jameswan141/recipeapp) that has code that has yet to be finished. It creates a JavaScript React App which is a recipe app.
 * I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
 * I added more issues and updated the old ones to show the facts that I learned from the programming languages.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
@@ -78,7 +78,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 </div>
 
 * I will get into the now advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
-* I will create some difficult games that will maybe include an app from TypeScript and React tutorials.
+* I will maybe create some difficult games that will maybe include an app from TypeScript and React tutorials.
 * I will edit my website to make it more elaborate and professional.
 
 
@@ -90,6 +90,7 @@ Home repository: [Click here!](https://github.com/jameswan141/jameswan141.github
 * I will use my knowledge to get into making unique softwares that are out of this world. Sure it may look scary, but knowledge is power.
 * I will create a list of objectives of what to do in order to make the portfolio look complete.
 * I will create a paragraph showcasing how I became someone who has the ability to blend in with the computer programming community.
+* I will deploy my recipe app and publish all of my projects to Github Pages.
 
 
 <div class="header">
