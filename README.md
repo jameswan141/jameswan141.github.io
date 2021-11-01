@@ -77,7 +77,7 @@ Email address: jameswan@udel.edu
   <h3>Week 2</h3>
 </div>
 
-* I will get into the now advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
+* I will get into the advanced tutorials such as the HTML entities an symbols so I can elevate my mastery of the programming languages, particularly from TypeScript and React. 
 * I will maybe create some difficult games that will maybe include an app from TypeScript and React tutorials.
 * I will edit my website to make it more elaborate and professional.
 
@@ -86,7 +86,7 @@ Email address: jameswan@udel.edu
   <h3>Week 3</h3>
 </div>
 
-* Heading into the final week, I will wrap up the tutorials and go over everything that I've learned from the first week to this week.
+* I will wrap up the tutorials and go over everything that I've learned from the first week to this week.
 * I will use my knowledge to get into making unique softwares that are out of this world. Sure it may look scary, but knowledge is power.
 * I will create a list of objectives of what to do in order to make the portfolio look complete.
 * I will create a paragraph showcasing how I became someone who has the ability to blend in with the computer programming community.
