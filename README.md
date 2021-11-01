@@ -49,12 +49,12 @@ Email address: jameswan@udel.edu
   <h3>Final Week</h3>
 </div>
 
-* I wrapped up my knowledge of the programming languages by finishing the tutorials and adding the last bits of code. I have achieved the expected mastery of them all.
+* I wrapped up my knowledge of the programming languages by finishing the tutorials and adding the remaining code. 
 * I changed the programming language of my [recipe app](https://jameswan141.github.io/recipeapp/) to TypeScript.
 * I added a branch to my recipe app repository to make sure it shows up on Github Pages.
 * I deployed my recipe app and published all of my projects to Github Pages.
 * I added all the repository links for the projects.
-* I made short, but detailed commit messages mostly in my recipe app. The best example is me learning how to move files up two directories.
+* I made mostly short, but detailed commit messages in my recipe app. The best example is moving files up two directories.
 * I added a summary in a final issue which is a great way to conclude the portfolio.
 * Since I didn't create all the work for the projects, I gave credit to the people that I've adapted the code from.
 
