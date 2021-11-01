@@ -87,7 +87,7 @@ Email address: jameswan@udel.edu
 </div>
 
 * I will wrap up the tutorials and go over everything that I've learned from the first week to this week.
-* I will use my knowledge to get into making unique softwares that are out of this world. Sure it may look scary, but knowledge is power.
+* I will use my knowledge to get into making unique softwares.
 * I will create a list of objectives of what to do in order to make the portfolio look complete.
 * I will create a paragraph showcasing how I became someone who has the ability to blend in with the computer programming community.
 * I will deploy my recipe app and publish all of my projects to Github Pages.
