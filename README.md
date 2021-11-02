@@ -39,7 +39,7 @@ Email address: jameswan@udel.edu
   <h3>Week 3</h3>
 </div>
 
-* I added a [fifth repository](https://github.com/jameswan141/recipeapp) that has code that has yet to be finished. It creates a JavaScript React App which is a recipe app.
+* I added a [fifth repository](https://github.com/jameswan141/recipeapp) that creates a recipe app that I learned from JavaScript React tutorials.
 * I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
 * I added more issues and updated the old ones to show the facts that I learned from the programming languages.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
