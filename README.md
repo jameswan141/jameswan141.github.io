@@ -68,7 +68,7 @@ Email address: jameswan@udel.edu
   <h3>Week 1</h3>
 </div>
 
-* I will make the introduction, Change Log, TODO and future sections more fancy and full screens and maybe have the sections listed on the left-hand screen and clickable so reading the site will be easier.
+* I will make the introduction, Change Log, TODO and future sections more fancy and maybe have the sections listed on the left-hand screen and clickable so reading the site will be easier.
 * I will add more codes to the uploaded files so that learning the programming languages can be easier as time goes on. I can learn new and harder stuff such as elements, avoiding the any time so that I can reach the goal of mastering the languages by the end of the semester.
 * I will add more issues so that my knowledge on the languages will only expand.
 
