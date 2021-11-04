@@ -16,7 +16,7 @@ Email address: jameswan@udel.edu
   <h3>Week 1</h3>
 </div>
 
-* I added files with codes. I created them to practice creating codes whether its classes or styles in order to master and become familiar with the various languages.
+* I added files with code. I created them to practice creating codes whether its classes or styles in order to master and become familiar with the various languages.
 * I changed the format of the setup.
 * I added issues to show my knowledge of things like HTML meaningful tags. It helps me to make sure that not only do I know how to create codes, but I understand the purpose of each keyword, when not to use them, and so forth.
 * I added a project in order to keep track of how far I am in the mastery of computer languages.
@@ -41,7 +41,7 @@ Email address: jameswan@udel.edu
 
 * I added a [fifth repository](https://github.com/jameswan141/recipeapp) that creates a recipe app that I learned from JavaScript React tutorials.
 * I added more code from my learning of the harder tutorials, whether it's TypeScript's functions and classes, CSS's pseudo-classes, or, React's hooks. Since I was lacking particularly with TypeScript and React, I pushed myself the most on the two.
-* I added more issues and updated the old ones to show the facts that I learned from the programming languages.
+* I added more issues and updated the old ones to show the facts that I learned from the programming language tutorials.
 * I added an issue which is a list of objectives of what to do prior to the portfolio due date.
 
 
@@ -133,7 +133,7 @@ Email address: jameswan@udel.edu
   <h3>Week 3</h3>
 </div>
 
-* Since there's one week left before the finished product, it was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the portfolio.
+* It was a bit of struggle for me that some parts of the softwares required me to look back at the first week of learning. I could hardly remember what I learned back in the beginning so I had to look back numerous times to get through the tutorials. I'll have to refresh my memory a bit before finishing the portfolio.
 * When creating the recipe app, not only did I have to watch tutorials, I had to search online to find out what applications I needed to run the software. I also had trouble running the software from the terminal. I had to search online to find commands that gets the job done. I'll have to keep that in mind when I finish the softwares in TypeScript.
 
 
