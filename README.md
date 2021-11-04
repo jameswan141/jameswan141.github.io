@@ -16,7 +16,7 @@ Email address: jameswan@udel.edu
   <h3>Week 1</h3>
 </div>
 
-* I added files of computer languages with codes. I used them to practice creating codes whether its classes or styles in order to master or become familiar with the various languages.
+* I added files with codes. I created them to practice creating codes whether its classes or styles in order to master and become familiar with the various languages.
 * I changed the format of the setup.
 * I added issues to show my knowledge of things like HTML meaningful tags. It helps me to make sure that not only do I know how to create codes, but I understand the purpose of each keyword, when not to use them, and so forth.
 * I added a project in order to keep track of how far I am in the mastery of computer languages.
