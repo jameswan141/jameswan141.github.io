@@ -16,7 +16,7 @@ Email address: jameswan@udel.edu
   <h3>Week 1</h3>
 </div>
 
-* I added files with code. I created them to practice creating codes whether its classes or styles in order to master and become familiar with the various languages.
+* I added files with code. I created them to practice codes whether its classes or styles in order to master and become familiar with the various languages.
 * I changed the format of the setup.
 * I added issues to show my knowledge of things like HTML meaningful tags. It helps me to make sure that not only do I know how to create codes, but I understand the purpose of each keyword, when not to use them, and so forth.
 * I added a project in order to keep track of how far I am in the mastery of computer languages.
@@ -26,7 +26,7 @@ Email address: jameswan@udel.edu
   <h3>Week 2</h3>
 </div>
 
-* I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth repository](https://github.com/jameswan141/digitalclock) with files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), a [website](https://jameswan141.github.io/website/), and a [digital clock](https://jameswan141.github.io/digitalclock/) from HTML, CSS, and JavaScript tutorials.
+* I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth](https://github.com/jameswan141/digitalclock) repository with files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), a [website](https://jameswan141.github.io/website/), and a [digital clock](https://jameswan141.github.io/digitalclock/) from HTML, CSS, and JavaScript tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
 * I added more code purely from my learning of more HTML elements and headers and footers, React hooks, the creation of the guessing game and website, and many others from the tutorials.
 * I added the Top anchor link. With that users won't need to scroll back up to the top of the site.
