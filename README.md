@@ -26,7 +26,7 @@ Email address: jameswan@udel.edu
   <h3>Week 2</h3>
 </div>
 
-* I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth](https://github.com/jameswan141/digitalclock) repository with files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), a [website](https://jameswan141.github.io/website/), and a [digital clock](https://jameswan141.github.io/digitalclock/) from the HTML, CSS, and JavaScript tutorials.
+* I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth](https://github.com/jameswan141/digitalclock) repository with files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), [website](https://jameswan141.github.io/website/), and [digital clock](https://jameswan141.github.io/digitalclock/) from the HTML, CSS, and JavaScript tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
 * I added more codes purely from my learning of more HTML elements and headers and footers, React hooks, the created projects, and many other things from the tutorials.
 * I added the Top anchor link. With that users won't need to scroll back up to the top of the site.
