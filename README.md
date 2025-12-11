@@ -6,7 +6,7 @@ Email address: jameswan@udel.edu
 
 [View my home repository!](https://github.com/jameswan141/jameswan141.github.io)
 
-
+This is a log of how I created the software in my Github account
 
 <div class="header">
   <h2>Change Log</h2>
