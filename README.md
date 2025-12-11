@@ -18,15 +18,15 @@ This is a log of how I created the software as college coursework in my Github a
 
 * I added files with codes. I created them to practice typing codes whether its classes or styles in order to master and become familiar with the various languages.
 * I changed the format of the setup.
-* I added issues to show my knowledge of things like HTML meaningful tags. It helps me to make sure that not only do I know how to create codes, but I understand the purpose of each keyword, when not to use them, and so forth.
-* I added a project in order to keep track of how far I am in the mastery of computer languages.
+* I added issues to show my knowledge of things like HTML meaningful tags. It helps me to make sure that not only do I know how to create code, but I understand the purpose of each keyword, when not to use them, and so forth.
+* I added a project in order to keep track of how far I am in the mastery of programming languages.
 
 
 <div class="header">
   <h3>Week 2</h3>
 </div>
 
-* I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth](https://github.com/jameswan141/digitalclock) repository with files that create unique softwares of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), [website](https://jameswan141.github.io/website/), and [digital clock](https://jameswan141.github.io/digitalclock/) from the HTML, CSS, and JavaScript tutorials.
+* I added a [second](https://github.com/jameswan141/guessinggame), [third](https://github.com/jameswan141/website), and [fourth](https://github.com/jameswan141/digitalclock) repository with files that create unique software of my choice. I created a [guessing game](https://jameswan141.github.io/guessinggame/), [website](https://jameswan141.github.io/website/), and [digital clock](https://jameswan141.github.io/digitalclock/) from the HTML, CSS, and JavaScript tutorials.
 * I deleted the hobbies list because I think listing my hobbies is irrelevant to the portfolio and the learning environment.
 * I added more codes purely from my learning of more HTML elements and headers and footers, React hooks, the created projects, and many other things from the tutorials.
 * I added the Top anchor link. With that users won't need to scroll back up to the top of the site.
