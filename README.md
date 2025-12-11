@@ -2,11 +2,11 @@ Name: James Wan
 
 Major: Computer Science
 
-Email address: jameswan@udel.edu
+Email addresses: jimmywwan@yahoo.com, jameswan@udel.edu
 
 [View my home repository!](https://github.com/jameswan141/jameswan141.github.io)
 
-This is a log of how I created the software in my Github account
+This is a log of how I created the software as college coursework in my Github account.
 
 <div class="header">
   <h2>Change Log</h2>
